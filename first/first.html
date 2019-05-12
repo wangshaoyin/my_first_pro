@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我的第一个网页</title>
+</head>
+<body>
+<h1>我的第一个网页</h1>
+<div  style="margin: 0 auto;width: 602px;height: auto;">
+
+    <div class="title">
+        <h1>我要咨询</h1>
+    </div>
+    <form action="formsave.php" method="post">
+        姓名：<input type="text" name="name"></br>
+        身份证号：<input type="text" name="idcard"></br>
+        <div class="layui-form-item">
+            <label class="layui-form-label">单位：</label>
+            <div class="layui-input-block">
+                <select name="unit" lay-verify="required">
+                    <option value=""></option>
+                    <option value="北京">北京</option>
+                    <option value="上海">上海</option>
+                    <option value="广州">广州</option>
+                    <option value="深圳">深圳</option>
+                    <option value="杭州">杭州</option>
+                </select>
+            </div>
+        </div>
+        </br>
+        Date: <input type="date" name="user_date" /></br>
+        <div class="layui-form-item">
+            <label class="layui-form-label">是否匿名：</label>
+            <div class="layui-input-block">
+                是<input type="radio" name="anon" value="1" title="是">
+                否<input type="radio" name="anon" value="0" title="否" checked>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">是否公开：</label>
+            <div class="layui-input-block">
+                是<input type="radio" name="open" value="1" title="是">
+                否<input type="radio" name="open" value="0" title="否" checked>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">问题类型：</label>
+            <div class="layui-input-block">
+                <select name="mold" lay-verify="required">
+                    <option value=""></option>
+                    <option value="北京">北京</option>
+                    <option value="上海">上海</option>
+                    <option value="广州">广州</option>
+                    <option value="深圳">深圳</option>
+                    <option value="杭州">杭州</option>
+                </select>
+            </div>
+        </div></br>
+        咨询内容：<textarea name="content" cols="50" rows="5" ></textarea>
+
+
+        <input type="submit" name="提交">
+
+
+
+
+
+    </form>
+</body>
+</html>
