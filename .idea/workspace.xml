@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8971dda6-4c45-4f1d-8387-e97a6addefc9" name="Default Changelist" comment="first   html">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/yunketa.html" beforeDir="false" afterPath="$PROJECT_DIR$/first/yunketa.html" afterDir="false" />
-    </list>
+    <list default="true" id="8971dda6-4c45-4f1d-8387-e97a6addefc9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,10 +25,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/firsttest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="368">
+              <caret line="154" column="7" lean-forward="true" selection-start-line="154" selection-start-column="7" selection-end-line="154" selection-end-column="7" />
               <folding>
-                <element signature="e#150#156#0" expanded="true" />
+                <element signature="e#4255#4259#0" expanded="true" />
+                <element signature="e#4764#4768#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,6 +43,11 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>avatar</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,10 +68,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -139,7 +142,7 @@
       <workItem from="1558054679131" duration="5000" />
       <workItem from="1558108816023" duration="1660000" />
       <workItem from="1558147207023" duration="2002000" />
-      <workItem from="1558164205088" duration="2991000" />
+      <workItem from="1558164205088" duration="10186000" />
     </task>
     <task id="LOCAL-00001" summary="first   html">
       <created>1557654326717</created>
@@ -183,17 +186,37 @@
       <option name="project" value="LOCAL" />
       <updated>1558110515510</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="first   html">
+      <created>1558167308290</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558167308291</updated>
+    </task>
+    <task id="LOCAL-00008" summary="first   html">
+      <created>1558175366796</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558175366796</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first   html">
+      <created>1558175403846</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558175403846</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9196000" />
+    <option name="totallyTimeSpent" value="16391000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="653" height="687" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35980552" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17633042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -282,10 +305,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/firsttest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="368">
+          <caret line="154" column="7" lean-forward="true" selection-start-line="154" selection-start-column="7" selection-end-line="154" selection-end-column="7" />
           <folding>
-            <element signature="e#150#156#0" expanded="true" />
+            <element signature="e#4255#4259#0" expanded="true" />
+            <element signature="e#4764#4768#0" expanded="true" />
           </folding>
         </state>
       </provider>
